@@ -9,8 +9,7 @@ form.addEventListener('submit', (event) => {
     const customerEmail = document.getElementById('customerEmail').value;
 
     // Replace 'your_email@example.com' with your actual email address
-    const senderEmail = 'iam.gowthamnm123@gmail.com
-';
+    const senderEmail = 'iam.gowthamnm123@gmail.com';
 
     // Replace 'your_pdf_url' with the actual URL of your PDF
     const pdfUrl = 'https://drive.google.com/file/d/1MQwl-RGZ0WbvmTvl66TNge2Wh6vs4KzK/view?usp=sharing';
